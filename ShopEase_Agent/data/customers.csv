@@ -1,0 +1,121 @@
+customer_id,age,gender,city,signup_channel,signup_date
+C0001,46,M,Bengaluru,Facebook Ads,2023-06-10
+C0002,32,M,Pune,Organic Search,2023-03-14
+C0003,25,M,Mumbai,Organic Search,2023-01-30
+C0004,38,M,Hyderabad,Organic Search,2023-04-17
+C0005,36,M,Chennai,Facebook Ads,2023-02-23
+C0006,40,F,Mumbai,Facebook Ads,2023-06-21
+C0007,28,M,Pune,Organic Search,2023-03-25
+C0008,28,F,Pune,Facebook Ads,2023-01-30
+C0009,41,M,Mumbai,Instagram,2023-06-01
+C0010,53,M,Pune,Google Ads,2023-05-01
+C0011,41,M,Mumbai,Organic Search,2023-05-11
+C0012,20,F,Delhi,Referral,2023-06-10
+C0013,39,F,Mumbai,Google Ads,2023-05-30
+C0014,19,F,Mumbai,Instagram,2023-06-27
+C0015,41,F,Pune,Google Ads,2023-02-01
+C0016,47,M,Pune,Organic Search,2023-05-13
+C0017,19,F,Bengaluru,Instagram,2023-01-05
+C0018,38,M,Bengaluru,Google Ads,2023-01-15
+C0019,50,M,Delhi,Organic Search,2023-01-29
+C0020,29,F,Bengaluru,Referral,2023-03-31
+C0021,39,F,Mumbai,Referral,2023-01-07
+C0022,42,F,Pune,Referral,2023-04-04
+C0023,44,F,Bengaluru,Facebook Ads,2023-04-12
+C0024,45,F,Bengaluru,Facebook Ads,2023-05-02
+C0025,33,F,Delhi,Organic Search,2023-05-26
+C0026,32,F,Hyderabad,Organic Search,2023-06-03
+C0027,20,F,Delhi,Organic Search,2023-05-05
+C0028,54,M,Mumbai,Organic Search,2023-01-29
+C0029,24,F,Pune,Google Ads,2023-04-05
+C0030,38,F,Delhi,Google Ads,2023-03-28
+C0031,26,M,Bengaluru,Referral,2023-02-11
+C0032,35,F,Pune,Google Ads,2023-04-04
+C0033,21,M,Pune,Referral,2023-01-18
+C0034,42,M,Bengaluru,Referral,2023-03-14
+C0035,31,F,Delhi,Organic Search,2023-03-17
+C0036,26,M,Bengaluru,Facebook Ads,2023-06-30
+C0037,43,M,Hyderabad,Facebook Ads,2023-05-19
+C0038,19,M,Pune,Instagram,2023-02-09
+C0039,37,M,Chennai,Google Ads,2023-06-20
+C0040,45,F,Chennai,Instagram,2023-04-02
+C0041,24,M,Mumbai,Google Ads,2023-06-03
+C0042,25,F,Bengaluru,Google Ads,2023-03-20
+C0043,52,M,Bengaluru,Facebook Ads,2023-02-24
+C0044,31,M,Mumbai,Google Ads,2023-06-14
+C0045,34,M,Mumbai,Instagram,2023-04-05
+C0046,53,M,Mumbai,Instagram,2023-03-11
+C0047,21,F,Pune,Organic Search,2023-01-30
+C0048,19,F,Hyderabad,Facebook Ads,2023-01-27
+C0049,23,M,Bengaluru,Instagram,2023-06-21
+C0050,21,M,Pune,Google Ads,2023-02-27
+C0051,46,F,Mumbai,Referral,2023-01-04
+C0052,35,M,Bengaluru,Instagram,2023-01-18
+C0053,43,M,Pune,Google Ads,2023-04-10
+C0054,51,M,Hyderabad,Instagram,2023-03-09
+C0055,27,F,Pune,Instagram,2023-06-03
+C0056,53,F,Hyderabad,Google Ads,2023-04-13
+C0057,31,F,Mumbai,Google Ads,2023-01-22
+C0058,48,M,Hyderabad,Google Ads,2023-01-09
+C0059,32,M,Bengaluru,Referral,2023-05-04
+C0060,25,F,Mumbai,Organic Search,2023-03-29
+C0061,31,F,Bengaluru,Google Ads,2023-05-17
+C0062,40,F,Chennai,Facebook Ads,2023-04-11
+C0063,38,F,Delhi,Referral,2023-06-12
+C0064,33,M,Hyderabad,Facebook Ads,2023-01-01
+C0065,35,F,Delhi,Facebook Ads,2023-01-20
+C0066,41,M,Delhi,Instagram,2023-04-22
+C0067,43,F,Hyderabad,Instagram,2023-05-13
+C0068,42,M,Mumbai,Organic Search,2023-01-11
+C0069,46,F,Chennai,Organic Search,2023-04-14
+C0070,32,F,Bengaluru,Referral,2023-06-12
+C0071,18,F,Pune,Facebook Ads,2023-04-24
+C0072,42,F,Bengaluru,Instagram,2023-03-13
+C0073,24,M,Pune,Instagram,2023-02-16
+C0074,26,F,Bengaluru,Facebook Ads,2023-06-24
+C0075,41,M,Hyderabad,Google Ads,2023-02-19
+C0076,18,M,Chennai,Referral,2023-05-01
+C0077,25,M,Pune,Referral,2023-06-17
+C0078,41,M,Mumbai,Facebook Ads,2023-02-09
+C0079,28,F,Bengaluru,Organic Search,2023-05-24
+C0080,34,M,Bengaluru,Referral,2023-02-09
+C0081,25,M,Pune,Google Ads,2023-02-10
+C0082,52,M,Mumbai,Google Ads,2023-06-20
+C0083,52,F,Mumbai,Facebook Ads,2023-02-06
+C0084,50,F,Hyderabad,Instagram,2023-06-30
+C0085,22,F,Hyderabad,Facebook Ads,2023-02-28
+C0086,45,F,Hyderabad,Referral,2023-01-03
+C0087,24,M,Hyderabad,Instagram,2023-03-09
+C0088,26,M,Hyderabad,Instagram,2023-06-20
+C0089,25,F,Hyderabad,Instagram,2023-06-28
+C0090,29,M,Chennai,Instagram,2023-01-27
+C0091,51,M,Mumbai,Organic Search,2023-03-04
+C0092,50,M,Hyderabad,Referral,2023-06-06
+C0093,40,F,Mumbai,Google Ads,2023-03-09
+C0094,41,F,Mumbai,Instagram,2023-03-08
+C0095,54,M,Delhi,Google Ads,2023-04-23
+C0096,52,F,Chennai,Google Ads,2023-04-07
+C0097,39,F,Hyderabad,Instagram,2023-03-08
+C0098,44,F,Bengaluru,Facebook Ads,2023-01-22
+C0099,52,F,Pune,Facebook Ads,2023-04-25
+C0100,18,F,Bengaluru,Google Ads,2023-04-30
+C0101,52,M,Chennai,Google Ads,2023-04-06
+C0102,54,F,Pune,Instagram,2023-05-14
+C0103,31,M,Chennai,Facebook Ads,2023-03-05
+C0104,20,M,Mumbai,Google Ads,2023-01-17
+C0105,18,F,Pune,Google Ads,2023-01-13
+C0106,22,M,Mumbai,Organic Search,2023-06-01
+C0107,43,M,Bengaluru,Referral,2023-05-31
+C0108,31,M,Bengaluru,Instagram,2023-03-02
+C0109,44,F,Pune,Instagram,2023-04-11
+C0110,26,F,Pune,Google Ads,2023-03-05
+C0111,32,M,Hyderabad,Instagram,2023-04-28
+C0112,32,F,Chennai,Google Ads,2023-02-11
+C0113,43,F,Hyderabad,Organic Search,2023-04-24
+C0114,30,F,Chennai,Google Ads,2023-04-28
+C0115,49,F,Hyderabad,Facebook Ads,2023-03-16
+C0116,49,M,Mumbai,Google Ads,2023-01-01
+C0117,21,M,Pune,Google Ads,2023-03-08
+C0118,47,F,Bengaluru,Google Ads,2023-06-23
+C0119,54,F,Chennai,Organic Search,2023-01-26
+C0120,40,M,Chennai,Facebook Ads,2023-01-26

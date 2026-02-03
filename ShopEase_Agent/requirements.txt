@@ -1,0 +1,18 @@
+# Architecture Changes Overview
+# 1. Tools (tools.py): Wrapped existing DataAnalystTools methods using LangChain's @tool decorator logic (via StructuredTool) to expose them to the LLM.
+# 2. RAG (rag.py): Converted the knowledge base lookup into a LangChain tool so the Agent can actively query it for context.
+# 3. Agent (agent.py): Replaced the manual if/else planner with a LangChain `create_tool_calling_agent`. 
+#    - Uses `ChatOpenAI` as the LLM.
+#    - Uses `AgentExecutor` for the runtime loop.
+#    - Automatically selects tools based on query and context.
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.2.0
+ipykernel
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+python-dotenv
